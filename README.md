@@ -1,6 +1,6 @@
 # Mochila de Viagem Interativa
 
-Este é o README para o projeto Mochila de Viagem Interativa, uma aplicação que simula uma mochila de viagem onde você pode adicionar ou retirar itens de forma interativa, utilizando JavaScript para a funcionalidade e CSS para estilização visual.
+O projeto Mochila de Viagem Interativa, é uma aplicação que simula uma mochila de viagem onde você pode adicionar ou retirar itens de forma interativa, utilizando JavaScript para a funcionalidade e CSS para estilização visual.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
